@@ -27,6 +27,9 @@ def caesar(plaintext: str, move: int) -> str:
     # TODO
     pass
 
+def secti(a: int, b: int) -> int:
+    # TODO
+    pass
 
 def main() -> None:
     # TODO
